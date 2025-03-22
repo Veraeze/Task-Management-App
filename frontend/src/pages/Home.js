@@ -6,7 +6,7 @@ const Home = () => {
     <div>
       <h1> Welcome to taskflow </h1>
       <Link to="/login">Login</Link>
-      {/* <Link to="/dashboard">Dashboard</Link> */}
+      <Link to="/register">Register</Link>
     </div>
   )
 }
